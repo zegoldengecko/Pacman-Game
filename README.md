@@ -3,7 +3,7 @@ This a small Pac-Man style game built in C++ using the Raylib framework. I creat
 
 Features
 - Classic Pac-Man movement and grid-based navigation
-- Simple ghost AI
+- Basic scoring + power-up logic
 - Collectible pellets
 - Raylib-based rendering and input
 - Basic collision detection
